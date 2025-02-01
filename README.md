@@ -3,8 +3,7 @@ $ pkg install upgrade && pkg install update
 
 $ git clone https://github.com/12345678MNIN/Termux-BR.git
 
-$ cd contador-visitas
+$ cd Termux-BR
 
-$ chmod +x termux_simulator.sh
-
-$ ./termux_simulator.sh
+$ bash contador-visitas.sh
+## **Copyright**
